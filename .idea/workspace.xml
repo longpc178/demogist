@@ -5,13 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eb0cd12-c17c-4d9c-b0fa-0293fa9bcddb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gallery_1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery_2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery_3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery_4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery_5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga0.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga12.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga14.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga15.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga16.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga17.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga20.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga21.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga22.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga23.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga31.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga32.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga33.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga40.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga41.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga42.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga43.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ga58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gaend1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gaend2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/le_tot_nghiep.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery_1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery_3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery_4.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery_5.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lan_dau_gap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/lan_dau_gap.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wife_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/wife_1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,34 +57,37 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2n1ZsqwTVj5Tv6rNwrUWiXQojNq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/longpc/data/ltinh/our_wedding&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2525773&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/longpc/data/ltinh/our_wedding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2525773",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -67,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728142752782</updated>
       <workItem from="1728142753823" duration="11803000" />
+      <workItem from="1728828032334" duration="3992000" />
     </task>
     <servers />
   </component>
@@ -83,6 +119,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
